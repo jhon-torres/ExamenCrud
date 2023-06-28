@@ -1,0 +1,7 @@
+{
+  "name": "ionic-concierto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
